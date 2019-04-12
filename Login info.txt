@@ -1,0 +1,13 @@
+import shopping.sql file to mysql localhost in the rename of database shopping
+
+
+User-Login
+------------------------------------
+login-Username: zz@g.c
+password: a
+
+
+admin(shopping/admin/index.php)
+-------------------------------------
+login-Username: admin
+password: a
